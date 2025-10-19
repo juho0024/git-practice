@@ -1,0 +1,3 @@
+This is a sample text file for Git practice.
+You can modify this file to test Git commits.
+Each change can be committed to track version history.
