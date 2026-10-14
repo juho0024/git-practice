@@ -19,4 +19,4 @@ The goal is to learn how to:
 5. Keep sensitive data safe
 
 ---
-Author: **Your Name**
+Author: **park juho**
