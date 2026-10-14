@@ -15,3 +15,5 @@ Thumbs.db
 # Ignore temporary or build files
 *.log
 *.tmp
+
+# commit change check
