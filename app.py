@@ -7,3 +7,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+if main:
+    print("well done")
